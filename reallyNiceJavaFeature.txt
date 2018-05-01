@@ -1,0 +1,3 @@
+:a
+syso("Hi");
+goto a
